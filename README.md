@@ -8,6 +8,10 @@
 
 **Contact:** [chiara.di_bonaventura@kcl.ac.uk](mailto:chiara.di_bonaventura@kcl.ac.uk)
 
+## 📂 Repo info
+
+This repository contains the code used to instruction-finetuning Llama-2. 
+
 ## 📎 Citation 
 ```bibtex
 @inproceedings{di-bonaventura-etal-2025-detection,
