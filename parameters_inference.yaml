@@ -1,0 +1,2 @@
+model_dir: "/datadrive/disk2/chiaradb/llama_7b_kg_implicit_hate"
+dataset_path: "/datadrive/disk2/chiaradb/data/implicit_hate_processed_kgs_test.jsonl"
